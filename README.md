@@ -1,5 +1,5 @@
 
-![Template rluipdev](rluispdev(4).png)
+![Template rluipdev](rluisp_dev.png)
 
 # Desafio em Swift - BootCamp Mobile Santander - DIO
 
